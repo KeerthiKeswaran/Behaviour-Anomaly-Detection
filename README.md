@@ -18,8 +18,8 @@ Make sure you have the following installed on your system:
 ### **Clone the Repository**
 1. Clone the repository using the following command:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/KeerthiKeswaran/Behaviour-Anomaly-Detection.git
+   cd Behaviour-Anomaly-Detection
    ```
 
 ---
